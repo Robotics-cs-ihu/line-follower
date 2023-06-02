@@ -5,7 +5,8 @@ Project for Embendded Systems
   
   
 # Concept
-
+  The concept is based on the IR Infrared Sensors and the way the reflect with light by the white color of the surface. Specifically, during the reflection, the motors are programmed to rotate and while they point on the black light, motors stop rotation.  
+To ensure the smooth running of the vehicle, both on straight track and the curved one, we used the reflection of each sensor in proportion to the movements of the motors. 
 
 # Construction
   The project is based on the new board 'Maker Pi RP2040'. 
